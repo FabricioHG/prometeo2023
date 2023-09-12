@@ -1,0 +1,10 @@
+{
+  "name": "prometeo2023",
+  "private": true,
+  "scripts": {
+    "livereload": "livereload css"
+  },
+  "devDependencies": {
+    "livereload": "^0.9.3"
+  }
+}
